@@ -1,0 +1,27 @@
+p{
+    font-size: 20px;
+    font-family: sans-serif;
+    color: white;
+    text-align: justify;
+    width: 500px;
+}
+h1{
+    color: rgb(0, 0, 0);
+    background-color: white;
+}
+body{
+    background-color: black;
+}
+a{
+    background-color: white;
+    color: black;
+    font-family: sans-serif;
+    text-decoration:none;
+    padding: 5px;
+    margin: 16px;
+    border-radius: 10px;
+}
+
+img{
+    margin: 20px;
+}
